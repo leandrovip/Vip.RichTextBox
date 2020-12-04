@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Vip.RichTextBox</id>
-    <version>1.0.6</version>
+    <version>1.0.7</version>
     <authors>Leandro Ferreira</authors>
     <owners>VIP Soluções</owners>
     <projectUrl>https://github.com/leandrovip/Vip.RichTextBox</projectUrl>
@@ -10,10 +10,10 @@
     <copyright>Copyright 2020</copyright>
     <tags>vip richtextbox control winforms</tags>
     <dependencies>
-      <group targetFramework="net45" />
+      <group targetFramework="net48" />
     </dependencies>
   </metadata>
   <files>
-        <file src="..\src\Vip.RichTextBox\bin\Release\Vip.RichTextBox.dll" target="lib\net45\Vip.RichTextBox.dll"/>
+        <file src="..\src\Vip.RichTextBox\bin\Release\Vip.RichTextBox.dll" target="lib\net48\Vip.RichTextBox.dll"/>
     </files>
 </package>
