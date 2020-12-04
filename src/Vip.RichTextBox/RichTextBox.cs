@@ -135,7 +135,7 @@ namespace Vip.RichTextBox
         {
             AutoValidate = AutoValidate.EnablePreventFocusChange;
             UpdateToolbarNoChangesTracked();
-            rtb.Select();
+            rtb.Focus();
         }
 
         private void RichTextBox_Resize(object sender, EventArgs e)
