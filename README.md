@@ -20,7 +20,13 @@
 
 ## Requisites
 
-- .Net Framework 4.5+
+- .Net Framework 4.8
+
+## Install via Nuget
+
+``` 
+Install-Package Vip.RichTextBox
+```
 
 ## Options
 
